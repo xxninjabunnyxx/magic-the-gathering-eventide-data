@@ -1,0 +1,118 @@
+---
+object: card
+id: e31f8b2a-acf4-423c-bc99-8cf44f3c018a
+oracle_id: 8e7641e1-e814-4d5a-9cb3-71ad2f4ceee8
+multiverse_ids:
+- 153434
+mtgo_id: 30098
+mtgo_foil_id: 30099
+tcgplayer_id: 27192
+cardmarket_id: 19640
+name: Rugged Prairie
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/e31f8b2a-acf4-423c-bc99-8cf44f3c018a
+scryfall_uri: https://scryfall.com/card/eve/178/rugged-prairie?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/3/e31f8b2a-acf4-423c-bc99-8cf44f3c018a.jpg?1562942931
+  normal: https://cards.scryfall.io/normal/front/e/3/e31f8b2a-acf4-423c-bc99-8cf44f3c018a.jpg?1562942931
+  large: https://cards.scryfall.io/large/front/e/3/e31f8b2a-acf4-423c-bc99-8cf44f3c018a.jpg?1562942931
+  png: https://cards.scryfall.io/png/front/e/3/e31f8b2a-acf4-423c-bc99-8cf44f3c018a.png?1562942931
+  art_crop: https://cards.scryfall.io/art_crop/front/e/3/e31f8b2a-acf4-423c-bc99-8cf44f3c018a.jpg?1562942931
+  border_crop: https://cards.scryfall.io/border_crop/front/e/3/e31f8b2a-acf4-423c-bc99-8cf44f3c018a.jpg?1562942931
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}.
+colors: []
+color_identity:
+- R
+- W
+keywords: []
+produced_mana:
+- C
+- R
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e31f8b2a-acf4-423c-bc99-8cf44f3c018a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e7641e1-e814-4d5a-9cb3-71ad2f4ceee8&unique=prints
+collector_number: '178'
+digital: false
+rarity: rare
+flavor_text: Hobs bury their kin far from home. They believe the dry, open ground
+  keeps hags from stealing the bones and gwyllions from stealing the spirits.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Fred Fields
+artist_ids:
+- 9c77c81a-3b3f-4e94-a834-327d01cd6b35
+illustration_id: e27d2ba0-a688-46f9-bf1d-0ed034b521ec
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 741
+penny_rank: 155
+prices:
+  usd: '5.03'
+  usd_foil: '20.16'
+  usd_etched: 
+  eur: '2.30'
+  eur_foil: '16.19'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153434
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rugged+Prairie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rugged+Prairie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rugged+Prairie
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27192?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rugged+Prairie&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30098?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,121 @@
+---
+object: card
+id: cfb71651-7ede-4348-89a4-b441da72491b
+oracle_id: 2c91c236-34d7-4454-a55a-784db7f68bde
+multiverse_ids:
+- 150995
+mtgo_id: 29952
+mtgo_foil_id: 29953
+tcgplayer_id: 27095
+cardmarket_id: 19548
+name: Divinity of Pride
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/cfb71651-7ede-4348-89a4-b441da72491b
+scryfall_uri: https://scryfall.com/card/eve/86/divinity-of-pride?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/f/cfb71651-7ede-4348-89a4-b441da72491b.jpg?1562938918
+  normal: https://cards.scryfall.io/normal/front/c/f/cfb71651-7ede-4348-89a4-b441da72491b.jpg?1562938918
+  large: https://cards.scryfall.io/large/front/c/f/cfb71651-7ede-4348-89a4-b441da72491b.jpg?1562938918
+  png: https://cards.scryfall.io/png/front/c/f/cfb71651-7ede-4348-89a4-b441da72491b.png?1562938918
+  art_crop: https://cards.scryfall.io/art_crop/front/c/f/cfb71651-7ede-4348-89a4-b441da72491b.jpg?1562938918
+  border_crop: https://cards.scryfall.io/border_crop/front/c/f/cfb71651-7ede-4348-89a4-b441da72491b.jpg?1562938918
+mana_cost: "{W/B}{W/B}{W/B}{W/B}{W/B}"
+cmc: 5.0
+type_line: Creature — Spirit Avatar
+oracle_text: |-
+  Flying, lifelink
+  Divinity of Pride gets +4/+4 as long as you have 25 or more life.
+power: '4'
+toughness: '4'
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords:
+- Flying
+- Lifelink
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cfb71651-7ede-4348-89a4-b441da72491b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c91c236-34d7-4454-a55a-784db7f68bde&unique=prints
+collector_number: '86'
+digital: false
+rarity: rare
+flavor_text: |-
+  "She spoke of mystery and portent, of such unfathomable things that my mind screamed for pity."
+  —*The Seer's Parables*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 55b3462d-d046-48c1-9abe-65ad1aca1b26
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5438
+penny_rank: 6772
+prices:
+  usd: '3.21'
+  usd_foil: '11.48'
+  usd_etched: 
+  eur: '0.90'
+  eur_foil: '9.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=150995
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Divinity+of+Pride&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Divinity+of+Pride&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Divinity+of+Pride
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27095?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Divinity+of+Pride&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29952?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

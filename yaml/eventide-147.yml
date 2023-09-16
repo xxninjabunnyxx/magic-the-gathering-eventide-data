@@ -1,0 +1,118 @@
+---
+object: card
+id: fefeb0e2-ddd4-4881-bca4-6c7699c82d79
+oracle_id: cf4d8b19-fd11-4200-9871-896772019f4c
+multiverse_ids:
+- 152044
+mtgo_id: 30236
+mtgo_foil_id: 30237
+tcgplayer_id: 27209
+cardmarket_id: 19609
+name: Spitemare
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/fefeb0e2-ddd4-4881-bca4-6c7699c82d79
+scryfall_uri: https://scryfall.com/card/eve/147/spitemare?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/e/fefeb0e2-ddd4-4881-bca4-6c7699c82d79.jpg?1562949011
+  normal: https://cards.scryfall.io/normal/front/f/e/fefeb0e2-ddd4-4881-bca4-6c7699c82d79.jpg?1562949011
+  large: https://cards.scryfall.io/large/front/f/e/fefeb0e2-ddd4-4881-bca4-6c7699c82d79.jpg?1562949011
+  png: https://cards.scryfall.io/png/front/f/e/fefeb0e2-ddd4-4881-bca4-6c7699c82d79.png?1562949011
+  art_crop: https://cards.scryfall.io/art_crop/front/f/e/fefeb0e2-ddd4-4881-bca4-6c7699c82d79.jpg?1562949011
+  border_crop: https://cards.scryfall.io/border_crop/front/f/e/fefeb0e2-ddd4-4881-bca4-6c7699c82d79.jpg?1562949011
+mana_cost: "{2}{R/W}{R/W}"
+cmc: 4.0
+type_line: Creature — Elemental
+oracle_text: Whenever Spitemare is dealt damage, it deals that much damage to any
+  target.
+power: '3'
+toughness: '3'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fefeb0e2-ddd4-4881-bca4-6c7699c82d79/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf4d8b19-fd11-4200-9871-896772019f4c&unique=prints
+collector_number: '147'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "I knew a creature carved from a dream of wild freedom. Any attempt to leash or exploit it failed, and at terrible cost."
+  —Ashling
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: 2fc3ce19-3891-4019-85d3-5b5552799b89
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9628
+penny_rank: 7465
+prices:
+  usd: '1.31'
+  usd_foil: '5.93'
+  usd_etched: 
+  eur: '0.31'
+  eur_foil: '2.99'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152044
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spitemare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spitemare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spitemare
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27209?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spitemare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30236?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

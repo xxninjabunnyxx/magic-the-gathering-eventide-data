@@ -1,0 +1,118 @@
+---
+object: card
+id: dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5
+oracle_id: 0af189d3-4de1-483e-aac4-dd5d51a57d9c
+multiverse_ids:
+- 151165
+mtgo_id: 30028
+mtgo_foil_id: 30029
+tcgplayer_id: 27070
+cardmarket_id: 19595
+name: Battlegate Mimic
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5
+scryfall_uri: https://scryfall.com/card/eve/133/battlegate-mimic?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/c/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5.jpg?1562941474
+  normal: https://cards.scryfall.io/normal/front/d/c/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5.jpg?1562941474
+  large: https://cards.scryfall.io/large/front/d/c/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5.jpg?1562941474
+  png: https://cards.scryfall.io/png/front/d/c/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5.png?1562941474
+  art_crop: https://cards.scryfall.io/art_crop/front/d/c/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5.jpg?1562941474
+  border_crop: https://cards.scryfall.io/border_crop/front/d/c/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5.jpg?1562941474
+mana_cost: "{1}{R/W}"
+cmc: 2.0
+type_line: Creature — Shapeshifter
+oracle_text: Whenever you cast a spell that's both red and white, Battlegate Mimic
+  has base power and toughness 4/2 until end of turn and gains first strike until
+  end of turn.
+power: '2'
+toughness: '1'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dc2a0bc8-d736-45e6-ac20-63c5ca69a8d5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0af189d3-4de1-483e-aac4-dd5d51a57d9c&unique=prints
+collector_number: '133'
+digital: false
+rarity: common
+flavor_text: 'Mimics don''t need perfect disguises. They need only the perfect victims:
+  the naive, the young, or the poor of sight.'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Franz Vohwinkel
+artist_ids:
+- 3a243c17-3baa-4b53-9599-645311cd7d3d
+illustration_id: cfbe4e1a-2f6d-41e9-a769-2391f0e9974e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18034
+penny_rank: 8977
+prices:
+  usd: '0.15'
+  usd_foil: '0.68'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.20'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=151165
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Battlegate+Mimic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Battlegate+Mimic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Battlegate+Mimic
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27070?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Battlegate+Mimic&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30028?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

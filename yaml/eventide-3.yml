@@ -1,0 +1,127 @@
+---
+object: card
+id: ab1c1375-9908-4fe8-960a-595b9b58cd10
+oracle_id: 49fe9f5a-5821-4586-b913-7d8aef1f8669
+multiverse_ids:
+- 153469
+mtgo_id: 30118
+mtgo_foil_id: 30119
+tcgplayer_id: 27082
+cardmarket_id: 19465
+name: Cenn's Enlistment
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/ab1c1375-9908-4fe8-960a-595b9b58cd10
+scryfall_uri: https://scryfall.com/card/eve/3/cenns-enlistment?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/b/ab1c1375-9908-4fe8-960a-595b9b58cd10.jpg?1562931113
+  normal: https://cards.scryfall.io/normal/front/a/b/ab1c1375-9908-4fe8-960a-595b9b58cd10.jpg?1562931113
+  large: https://cards.scryfall.io/large/front/a/b/ab1c1375-9908-4fe8-960a-595b9b58cd10.jpg?1562931113
+  png: https://cards.scryfall.io/png/front/a/b/ab1c1375-9908-4fe8-960a-595b9b58cd10.png?1562931113
+  art_crop: https://cards.scryfall.io/art_crop/front/a/b/ab1c1375-9908-4fe8-960a-595b9b58cd10.jpg?1562931113
+  border_crop: https://cards.scryfall.io/border_crop/front/a/b/ab1c1375-9908-4fe8-960a-595b9b58cd10.jpg?1562931113
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: |-
+  Create two 1/1 white Kithkin Soldier creature tokens.
+  Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Retrace
+all_parts:
+- object: related_card
+  id: ab1c1375-9908-4fe8-960a-595b9b58cd10
+  component: combo_piece
+  name: Cenn's Enlistment
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/ab1c1375-9908-4fe8-960a-595b9b58cd10
+- object: related_card
+  id: 064ce217-2a93-41ae-b26a-e80cbb2353e4
+  component: token
+  name: Kithkin Soldier
+  type_line: Token Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/064ce217-2a93-41ae-b26a-e80cbb2353e4
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ab1c1375-9908-4fe8-960a-595b9b58cd10/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A49fe9f5a-5821-4586-b913-7d8aef1f8669&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+flavor_text: The more the scarier.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: 6c70f4ce-084c-475d-9160-bfa1f034a340
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15835
+penny_rank: 7352
+prices:
+  usd: '0.15'
+  usd_foil: '0.48'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.19'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153469
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cenn%27s+Enlistment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cenn%27s+Enlistment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cenn%27s+Enlistment
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27082?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cenn%27s+Enlistment&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30118?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

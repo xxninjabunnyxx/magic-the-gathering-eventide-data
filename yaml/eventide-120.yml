@@ -1,0 +1,118 @@
+---
+object: card
+id: 173fd1c6-ffd9-424f-ad65-90b193edbe00
+oracle_id: ab94d8f7-f811-436a-9a22-9a12bd929e98
+multiverse_ids:
+- 146010
+mtgo_id: 29942
+mtgo_foil_id: 29943
+tcgplayer_id: 27097
+cardmarket_id: 19582
+name: Doomgape
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/173fd1c6-ffd9-424f-ad65-90b193edbe00
+scryfall_uri: https://scryfall.com/card/eve/120/doomgape?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/7/173fd1c6-ffd9-424f-ad65-90b193edbe00.jpg?1562899929
+  normal: https://cards.scryfall.io/normal/front/1/7/173fd1c6-ffd9-424f-ad65-90b193edbe00.jpg?1562899929
+  large: https://cards.scryfall.io/large/front/1/7/173fd1c6-ffd9-424f-ad65-90b193edbe00.jpg?1562899929
+  png: https://cards.scryfall.io/png/front/1/7/173fd1c6-ffd9-424f-ad65-90b193edbe00.png?1562899929
+  art_crop: https://cards.scryfall.io/art_crop/front/1/7/173fd1c6-ffd9-424f-ad65-90b193edbe00.jpg?1562899929
+  border_crop: https://cards.scryfall.io/border_crop/front/1/7/173fd1c6-ffd9-424f-ad65-90b193edbe00.jpg?1562899929
+mana_cost: "{4}{B/G}{B/G}{B/G}"
+cmc: 7.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Trample
+  At the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature's toughness.
+power: '10'
+toughness: '10'
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/173fd1c6-ffd9-424f-ad65-90b193edbe00/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab94d8f7-f811-436a-9a22-9a12bd929e98&unique=prints
+collector_number: '120'
+digital: false
+rarity: rare
+flavor_text: It eats and eats until the juiciest morsel it can find is itself.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Allsop
+artist_ids:
+- 99b8310a-4fd6-4ded-8ab7-3b5185821cbe
+illustration_id: db30c008-5daa-42e0-a46f-9fb11d3dcfd7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13265
+penny_rank: 9209
+prices:
+  usd: '0.27'
+  usd_foil: '7.93'
+  usd_etched: 
+  eur: '0.91'
+  eur_foil: '2.68'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146010
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Doomgape&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Doomgape&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Doomgape
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27097?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Doomgape&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29942?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

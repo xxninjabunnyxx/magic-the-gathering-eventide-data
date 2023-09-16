@@ -1,0 +1,129 @@
+---
+object: card
+id: 674a694a-22b8-4fb8-b901-91d64564c0db
+oracle_id: e264ffe3-0252-49d6-b990-dbb3654325a5
+multiverse_ids:
+- 147373
+mtgo_id: 29944
+mtgo_foil_id: 29945
+tcgplayer_id: 27186
+cardmarket_id: 19536
+name: Regal Force
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/674a694a-22b8-4fb8-b901-91d64564c0db
+scryfall_uri: https://scryfall.com/card/eve/74/regal-force?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/7/674a694a-22b8-4fb8-b901-91d64564c0db.jpg?1562916588
+  normal: https://cards.scryfall.io/normal/front/6/7/674a694a-22b8-4fb8-b901-91d64564c0db.jpg?1562916588
+  large: https://cards.scryfall.io/large/front/6/7/674a694a-22b8-4fb8-b901-91d64564c0db.jpg?1562916588
+  png: https://cards.scryfall.io/png/front/6/7/674a694a-22b8-4fb8-b901-91d64564c0db.png?1562916588
+  art_crop: https://cards.scryfall.io/art_crop/front/6/7/674a694a-22b8-4fb8-b901-91d64564c0db.jpg?1562916588
+  border_crop: https://cards.scryfall.io/border_crop/front/6/7/674a694a-22b8-4fb8-b901-91d64564c0db.jpg?1562916588
+mana_cost: "{4}{G}{G}{G}"
+cmc: 7.0
+type_line: Creature — Elemental
+oracle_text: When Regal Force enters the battlefield, draw a card for each green creature
+  you control.
+power: '5'
+toughness: '5'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: e4148be2-ce02-40a0-aca5-8c646f45ad71
+  component: combo_piece
+  name: Freyalise, Skyshroud Partisan
+  type_line: Legendary Planeswalker — Freyalise
+  uri: https://api.scryfall.com/cards/e4148be2-ce02-40a0-aca5-8c646f45ad71
+- object: related_card
+  id: 674a694a-22b8-4fb8-b901-91d64564c0db
+  component: combo_piece
+  name: Regal Force
+  type_line: Creature — Elemental
+  uri: https://api.scryfall.com/cards/674a694a-22b8-4fb8-b901-91d64564c0db
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/674a694a-22b8-4fb8-b901-91d64564c0db/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae264ffe3-0252-49d6-b990-dbb3654325a5&unique=prints
+collector_number: '74'
+digital: false
+rarity: rare
+flavor_text: It rarely moves, standing stock still in its clearing. When it does stir,
+  ravens stop their cawing and crickets their chirping. All of nature watches in awed
+  silence.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brandon Kitkouski
+artist_ids:
+- 0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20
+illustration_id: 8359ab9c-3904-45a6-a751-017705c21458
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2075
+penny_rank: 1415
+prices:
+  usd: '4.98'
+  usd_foil: '29.89'
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: '8.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147373
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Regal+Force&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Regal+Force&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Regal+Force
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27186?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Regal+Force&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29944?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

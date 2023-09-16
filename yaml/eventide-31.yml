@@ -1,0 +1,115 @@
+---
+object: card
+id: 93116209-636a-4b86-a8ed-d4a03e1d7212
+oracle_id: f2d1e991-e13a-43c7-85aa-d53dd14822e6
+multiverse_ids:
+- 157405
+mtgo_id: 30196
+mtgo_foil_id: 30197
+tcgplayer_id: 27234
+cardmarket_id: 19493
+name: Wake Thrasher
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/93116209-636a-4b86-a8ed-d4a03e1d7212
+scryfall_uri: https://scryfall.com/card/eve/31/wake-thrasher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/3/93116209-636a-4b86-a8ed-d4a03e1d7212.jpg?1562926091
+  normal: https://cards.scryfall.io/normal/front/9/3/93116209-636a-4b86-a8ed-d4a03e1d7212.jpg?1562926091
+  large: https://cards.scryfall.io/large/front/9/3/93116209-636a-4b86-a8ed-d4a03e1d7212.jpg?1562926091
+  png: https://cards.scryfall.io/png/front/9/3/93116209-636a-4b86-a8ed-d4a03e1d7212.png?1562926091
+  art_crop: https://cards.scryfall.io/art_crop/front/9/3/93116209-636a-4b86-a8ed-d4a03e1d7212.jpg?1562926091
+  border_crop: https://cards.scryfall.io/border_crop/front/9/3/93116209-636a-4b86-a8ed-d4a03e1d7212.jpg?1562926091
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Merfolk Soldier
+oracle_text: Whenever a permanent you control becomes untapped, Wake Thrasher gets
+  +1/+1 until end of turn.
+power: '1'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/93116209-636a-4b86-a8ed-d4a03e1d7212/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2d1e991-e13a-43c7-85aa-d53dd14822e6&unique=prints
+collector_number: '31'
+digital: false
+rarity: rare
+flavor_text: Anyone who thinks merrows have more brains than brawn has never been
+  run over by one.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: 22496ea8-5876-40df-875e-1701656a5d27
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9484
+penny_rank: 5936
+prices:
+  usd: '0.85'
+  usd_foil: '5.41'
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: '3.59'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157405
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wake+Thrasher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wake+Thrasher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wake+Thrasher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27234?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wake+Thrasher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30196?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

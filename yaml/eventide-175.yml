@@ -1,0 +1,117 @@
+---
+object: card
+id: c3eede44-270a-481d-850b-b4862b9685ea
+oracle_id: f1603384-4361-49c9-98aa-7785fc3504c4
+multiverse_ids:
+- 153433
+mtgo_id: 30096
+mtgo_foil_id: 30097
+tcgplayer_id: 27080
+cardmarket_id: 19637
+name: Cascade Bluffs
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/c3eede44-270a-481d-850b-b4862b9685ea
+scryfall_uri: https://scryfall.com/card/eve/175/cascade-bluffs?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/3/c3eede44-270a-481d-850b-b4862b9685ea.jpg?1562936432
+  normal: https://cards.scryfall.io/normal/front/c/3/c3eede44-270a-481d-850b-b4862b9685ea.jpg?1562936432
+  large: https://cards.scryfall.io/large/front/c/3/c3eede44-270a-481d-850b-b4862b9685ea.jpg?1562936432
+  png: https://cards.scryfall.io/png/front/c/3/c3eede44-270a-481d-850b-b4862b9685ea.png?1562936432
+  art_crop: https://cards.scryfall.io/art_crop/front/c/3/c3eede44-270a-481d-850b-b4862b9685ea.jpg?1562936432
+  border_crop: https://cards.scryfall.io/border_crop/front/c/3/c3eede44-270a-481d-850b-b4862b9685ea.jpg?1562936432
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}.
+colors: []
+color_identity:
+- R
+- U
+keywords: []
+produced_mana:
+- C
+- R
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c3eede44-270a-481d-850b-b4862b9685ea/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af1603384-4361-49c9-98aa-7785fc3504c4&unique=prints
+collector_number: '175'
+digital: false
+rarity: rare
+flavor_text: Travelers bathe in the falls to wash away curses from the pucas who lurk
+  nearby.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brandon Kitkouski
+artist_ids:
+- 0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20
+illustration_id: 98d7c2f5-92e6-44e1-9abd-b22f73d59f21
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 603
+prices:
+  usd: '6.01'
+  usd_foil: '19.70'
+  usd_etched: 
+  eur: '4.45'
+  eur_foil: '18.00'
+  tix: '0.09'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153433
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cascade+Bluffs&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cascade+Bluffs&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cascade+Bluffs
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27080?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cascade+Bluffs&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30096?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

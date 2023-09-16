@@ -1,0 +1,129 @@
+---
+object: card
+id: 914e6fda-808f-43fb-8024-8b8a8781a7ac
+oracle_id: b89b285d-62d3-4013-b881-23f0f236337d
+multiverse_ids:
+- 159069
+mtgo_id: 30272
+mtgo_foil_id: 30273
+tcgplayer_id: 27127
+cardmarket_id: 19551
+name: Gwyllion Hedge-Mage
+lang: en
+released_at: '2008-07-25'
+uri: https://api.scryfall.com/cards/914e6fda-808f-43fb-8024-8b8a8781a7ac
+scryfall_uri: https://scryfall.com/card/eve/89/gwyllion-hedge-mage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.jpg?1562925646
+  normal: https://cards.scryfall.io/normal/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.jpg?1562925646
+  large: https://cards.scryfall.io/large/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.jpg?1562925646
+  png: https://cards.scryfall.io/png/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.png?1562925646
+  art_crop: https://cards.scryfall.io/art_crop/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.jpg?1562925646
+  border_crop: https://cards.scryfall.io/border_crop/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.jpg?1562925646
+mana_cost: "{2}{W/B}"
+cmc: 3.0
+type_line: Creature — Hag Wizard
+oracle_text: |-
+  When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may create a 1/1 white Kithkin Soldier creature token.
+  When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.
+power: '2'
+toughness: '2'
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 914e6fda-808f-43fb-8024-8b8a8781a7ac
+  component: combo_piece
+  name: Gwyllion Hedge-Mage
+  type_line: Creature — Hag Wizard
+  uri: https://api.scryfall.com/cards/914e6fda-808f-43fb-8024-8b8a8781a7ac
+- object: related_card
+  id: 064ce217-2a93-41ae-b26a-e80cbb2353e4
+  component: token
+  name: Kithkin Soldier
+  type_line: Token Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/064ce217-2a93-41ae-b26a-e80cbb2353e4
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 86b4dfef-f2d1-49d6-825d-7df6bda44357
+set: eve
+set_name: Eventide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/86b4dfef-f2d1-49d6-825d-7df6bda44357
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/eve?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/914e6fda-808f-43fb-8024-8b8a8781a7ac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab89b285d-62d3-4013-b881-23f0f236337d&unique=prints
+collector_number: '89'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Todd Lockwood
+artist_ids:
+- d0b9f3cc-13fb-42b6-bc43-b034728e5c7b
+illustration_id: 5bbd454e-473e-4d6c-afc6-31d661e2e7af
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21279
+penny_rank: 6671
+prices:
+  usd: '0.14'
+  usd_foil: '0.37'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159069
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gwyllion+Hedge-Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gwyllion+Hedge-Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gwyllion+Hedge-Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27127?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gwyllion+Hedge-Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30272?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
